@@ -23,3 +23,12 @@ https://www.onshape.com/en/
 * ### IsaacSim
   https://github.com/isaac-sim/IsaacSim
   * Open-source reference framework built on NVIDIA Omniverse™ that enables developers to simulate and test AI-driven robotics solutions in physically based virtual environments.
+ 
+## Software Tools:
+* Peter Corke's robotics toolbox: contains basic robotics functions https://petercorke.com/toolboxes/robotics-toolbox/
+* Python Robotics: Basic robotic algorithms for localization, mapping, planning, control https://atsushisakai.github.io/PythonRobotics/
+* Python Control Systems Library https://python-control.readthedocs.io/en/0.10.2/
+* Reinforcement Learning:
+   * SKRL https://skrl.readthedocs.io/en/latest/
+   * RL Games https://github.com/Denys88/rl_games
+   * Stable Baselines https://stable-baselines3.readthedocs.io/en/master/
