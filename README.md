@@ -7,7 +7,11 @@ https://www.onshape.com/en/
 
 ## Simulation Tools:
 
-* Coppelia Sim
-* PyBullet
-* Mujoco
-* IsaacSim
+* ### Coppelia Sim
+  https://www.coppeliarobotics.com/
+  * An open-source, free-to-use multi-body simulator for rapid prototyping and fast verification of robotics software, digital twins
+  * Compatible with remote clients - Python/ C/ C++/ MATLAB/ Rust etc.
+  
+* ### PyBullet
+* ### Mujoco
+* ### IsaacSim
