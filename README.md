@@ -13,5 +13,11 @@ https://www.onshape.com/en/
   * Compatible with remote clients - Python/ C/ C++/ MATLAB/ Rust etc.
   
 * ### PyBullet
+  https://pybullet.org/wordpress/
+  * Open-source, versatile simulator (rigid/soft bodies, VR, CPU/OpenGL rendering, collision detection) for general robotics, games, and ML prototyping.
+    
 * ### Mujoco
+  https://mujoco.org/
+  * fast, stable, efficient rigid-body dynamics simulator for deep RL (especially sim-to-real)
+    
 * ### IsaacSim
