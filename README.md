@@ -28,7 +28,19 @@ https://www.onshape.com/en/
 * Peter Corke's robotics toolbox: contains basic robotics functions https://petercorke.com/toolboxes/robotics-toolbox/
 * Python Robotics: Basic robotic algorithms for localization, mapping, planning, control https://atsushisakai.github.io/PythonRobotics/
 * Python Control Systems Library https://python-control.readthedocs.io/en/0.10.2/
+* OpenCV: For computer vision https://opencv.org/
+* Deep Learning/ Machine Learning:
+    * PyTorch https://pytorch.org/
+    * Tensorflow https://www.tensorflow.org/
+    * Jax https://github.com/jax-ml/jax
+    * Numba https://numba.pydata.org/
 * Reinforcement Learning:
    * SKRL https://skrl.readthedocs.io/en/latest/
    * RL Games https://github.com/Denys88/rl_games
    * Stable Baselines https://stable-baselines3.readthedocs.io/en/master/
+   * Tianshou https://github.com/thu-ml/tianshou
+   * Open AI gym https://gymnasium.farama.org/
+ 
+## Networking & Interfacing
+* ROS 2 https://github.com/ros2
+    * The Robot Operating System (ROS) is a set of software libraries and tools (drivers, algorithms) that help you build robot application
