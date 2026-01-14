@@ -21,3 +21,5 @@ https://www.onshape.com/en/
   * fast, stable, efficient rigid-body dynamics simulator for deep RL (especially sim-to-real)
     
 * ### IsaacSim
+  https://github.com/isaac-sim/IsaacSim
+  * Open-source reference framework built on NVIDIA Omniverse™ that enables developers to simulate and test AI-driven robotics solutions in physically based virtual environments.
